@@ -1,5 +1,7 @@
 # Computer-Aided-Design-Drafting
 
+## Question:
+
 ### Building Civil plan design & Electric Fittings (applying BNBC)
 X has purchased a land from YZ Real Estate Ltd. Which is located at Dhanmondi 32, Dhaka. Now he wants to construct a multistoried building of having 3 units – A, B &
 C in each floor. You are asked to design for only C unit flat of having 1700 sq-ft (approx.) based on the following specifications:

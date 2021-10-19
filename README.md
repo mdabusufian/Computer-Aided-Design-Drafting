@@ -10,3 +10,7 @@ C in each floor. You are asked to design for only C unit flat of having 1700 sq-
 ▪ Kitchen (Size: 7' x 5')\
 ▪ 4 Veranda (Size: Ver_Bed-1, Ver_Bed-2 & Ver_Bed-3 is 4'6'' x 6', Ver_Kit is 4' x 5')\
 ▪ Dining (Remaining free space after completing all the specifications)
+
+
+## Solve:
+#### Check the .dwg file

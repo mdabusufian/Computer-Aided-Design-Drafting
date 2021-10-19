@@ -1,5 +1,3 @@
-# Computer-Aided-Design-Drafting
-
 ## Question:
 
 ### Building Civil plan design & Electric Fittings (applying BNBC)

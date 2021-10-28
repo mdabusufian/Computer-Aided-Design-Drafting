@@ -15,4 +15,4 @@ C in each floor. You are asked to design for only C unit flat of having 1700 sq-
 
 
 ## Solve:
-#### Check the " Civil Plan (1700 Sq ft approx).dwg " file
+#### Check the " Civil Plan (1700sq ft approx).dwg " file

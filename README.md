@@ -14,5 +14,5 @@ C in each floor. You are asked to design for only C unit flat of having 1700 sq-
 ▪ Dining (Remaining free space after completing all the specifications)
 
 
-## Solve:::
+## Solve:
 #### Check the " Civil Plan (1700sq ft approx).dwg " file

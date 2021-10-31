@@ -1,6 +1,6 @@
 # Computer-Aided-Design-Drafting
 
-## Question:::
+## Question:
 
 ### Building Civil plan design & Electric Fittings (applying BNBC)
 X has purchased a land from YZ Real Estate Ltd. Which is located at Dhanmondi 32, Dhaka. Now he wants to construct a multistoried building of having 3 units – A, B &
